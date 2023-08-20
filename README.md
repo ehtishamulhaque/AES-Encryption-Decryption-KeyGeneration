@@ -1,4 +1,4 @@
-# AES-Encryption-Decryption-KeyGeneration
+# Advanced Encryption Standard (AES) Cipher
 
 Above is the C++ implementation of the AES cipher, including an Encryptor, Decryptor, and Key Generator.
 
